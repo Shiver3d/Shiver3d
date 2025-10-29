@@ -4,7 +4,7 @@
 - 🌱 Estudando JavaScript, Java, e Visual Basic
 - 📫 E-mail de contato: shiver3dcontact@gmail.com
 
-<div>
+<div justify-content=space-between>
 <a href="https://github.com/Shiver3d/github-readme-stats">
   <img width=49% align="left" src="https://github-readme-stats.vercel.app/api?username=Shiver3d&show_icons=true&theme=holi" />
 </a>
