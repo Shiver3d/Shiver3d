@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá mundo!!! 👋
 
-<!--
-**Shiver3d/Shiver3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente atuando com programação web e design
+- 🌱 Estudando JavaScript, Java, e Visual Basic
+- 📫 E-mail de contato: shiver3dcontact@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/Shiver3d/github-readme-stats">
+  <img width=49% align="left" src="https://github-readme-stats.vercel.app/api?username=Shiver3d&show_icons=true&theme=holi" />
+</a>
+<a href="https://github.com/Shiver3d/convoychat">
+  <img width=47% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiver3d&layout=compact&langs_count=8&card_width=320&theme=holi" />
+</a>   
+</div>
