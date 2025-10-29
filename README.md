@@ -46,7 +46,7 @@
 Confira alguns dos meus projetos mais recentes:
 
 * **Reciclatech** - Primeiro desafio da escola vai-na-web, onde desenvolvi um site responsivo pela primeira vez em determinado prazo [https://github.com/Shiver3d/reciclatech]
-* **Modo escuro** - Um simples site para funcionalidade de modo escuro com JavaSrcipt. [(https://github.com/Shiver3d/modo-escuro)]
+* **Modo escuro** - Um simples site para funcionalidade de modo escuro com JavaSrcipt. [https://github.com/Shiver3d/modo-escuro]
 
 ---
 
