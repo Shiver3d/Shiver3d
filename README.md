@@ -7,8 +7,8 @@
 
 ### ✭ Sobre Mim
 
-* 🔭 Atualmente trabalhando com **Desenvolvimento Web** e **Design** (foco em UI/UX).
-* 🌱 Estou aprofundando meus estudos em **JavaScript**, **Java**, e aprimorando habilidades com **Visual Basic**.
+* 🔭 Atualmente trabalhando com **Desenvolvimento Web** e **Design Gráfico**
+* 🌱 Estou aprofundando meus estudos em **JavaScript**, **Vue**, **React**, e aprimorando habilidades com **Visual Basic**.
 * 💡 Interesses: Criação de interfaces responsivas, Design System e automação de tarefas.
 * 📫 **E-mail de Contato:** [shiver3dcontact@gmail.com](mailto:shiver3dcontact@gmail.com)
 
