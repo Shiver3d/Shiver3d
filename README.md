@@ -17,7 +17,7 @@
 ### 💻 Minhas Habilidades e Ferramentas
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,java,react,github,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,java,react,vue,figma,photoshop" />
   </a>
   <br>
   <p><i>Desenvolvendo mais habilidades para futuramente colocar aqui :D</i></p>
