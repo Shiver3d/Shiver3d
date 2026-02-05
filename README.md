@@ -8,16 +8,16 @@
 ### ✭ Sobre Mim
 
 * 🔭 Atualmente trabalhando com **Desenvolvimento Web** e **Design Gráfico**
-* 🌱 Estou aprofundando meus estudos em **JavaScript**, **Vue**, **React**, e aprimorando habilidades com **Visual Basic**.
+* 🌱 Estou aprofundando meus estudos em **TypeScript** e **Power Querries**.
 * 💡 Interesses: Criação de interfaces responsivas, Design System e automação de tarefas.
-* 📫 **E-mail de Contato:** [shiver3dcontact@gmail.com](mailto:shiver3dcontact@gmail.com)
+* 📫 **E-mail de Contato para projetos:** [shiver3dcontact@gmail.com](mailto:shiver3dcontact@gmail.com)
 
 ---
 
 ### 💻 Minhas Habilidades e Ferramentas
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,java,react,vue,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,sass,java,react,vue,figma,photoshop" />
   </a>
   <br>
   <p><i>Desenvolvendo mais habilidades para futuramente colocar aqui :D</i></p>
