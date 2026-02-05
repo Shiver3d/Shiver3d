@@ -1,6 +1,6 @@
 <div style="display: inline-block" align="center">
-  <h1>Olá Mundo!!! Me chame de Shiver3d 👋</h1> 
-  <p>Desenvolvedor Web, Designer e Aprendiz Contínuo.</p>
+  <h1>Olá usuário!!! Pode me chamar de Shiver3d.<h1> 
+  <p>Desenvolvedor Web, Designer Web & Edição de imagens, e Aprendiz Contínuo.</p>
 </div>
 
 ---
