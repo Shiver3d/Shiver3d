@@ -44,8 +44,8 @@
 
 Confira alguns dos meus projetos mais recentes:
 
-* **Reciclatech** - Primeiro desafio da escola vai-na-web, onde desenvolvi um site responsivo pela primeira vez em determinado prazo [https://github.com/Shiver3d/reciclatech]
-* **Modo escuro** - Um simples site para funcionalidade de modo escuro com JavaSrcipt. [https://github.com/Shiver3d/modo-escuro]
+* **AURA** - Meu último projeto pessoal, onde desenvolvi um site responsivo com um backend simples para solucionar uma lacuna que percebi no mercado. [https://github.com/Shiver3d/AURA]
+* **Passoia** - Um simples site replicando uma landing page de comercialização de produtos de beleza com interações. [https://github.com/Shiver3d/passoia]
 
 ---
 
