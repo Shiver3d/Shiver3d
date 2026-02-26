@@ -8,7 +8,7 @@
 ### ✭ Sobre Mim
 
 * 🔭 Atualmente trabalhando com **Desenvolvimento Web** e **Design Gráfico**
-* 🌱 Estou aprofundando meus estudos em **TypeScript** e **Power Querries**.
+* 🌱 Estou aprofundando meus estudos em **OfficeScript**, **Power Querries** e **PowerApps**.
 * 💡 Interesses: Criação de interfaces responsivas, Design System e automação de tarefas.
 * 📫 **E-mail de Contato para projetos:** [shiver3dcontact@gmail.com](mailto:shiver3dcontact@gmail.com)
 
