@@ -1,15 +1,15 @@
 <div style="display: inline-block" align="center">
   <h1>Olá usuário!!! Pode me chamar de Shiver3d.<h1> 
-  <p>Desenvolvedor Web, Designer Web & Edição de imagens, e Aprendiz Contínuo.</p>
+  <p>Desenvolvedor Web, Designer Web & Editor de imagens, e Aprendiz Contínuo e Analítico.</p>
 </div>
 
 ---
 
 ### ✭ Sobre Mim
 
-* 🔭 Atualmente trabalhando com **Desenvolvimento Web** e **Design Gráfico**
+* 🔭 Atualmente trabalhando com **Desenvolvimento Web** e **Automações**
 * 🌱 Estou aprofundando meus estudos em **OfficeScript**, **Power Querries** e **PowerApps**.
-* 💡 Interesses: Criação de interfaces responsivas, Design System e automação de tarefas.
+* 💡 Interesses: Criação de interfaces responsivas e acessíveis, Design System e automação de tarefas.
 * 📫 **E-mail de Contato para projetos:** [shiver3dcontact@gmail.com](mailto:shiver3dcontact@gmail.com)
 
 ---
