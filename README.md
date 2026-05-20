@@ -1,5 +1,5 @@
 <div style="display: inline-block" align="center">
-  <h1>Olá usuário!!! Pode me chamar de Shiver3d.<h1> 
+  <h1>Olá floco de neve!!! Pode me chamar de Shiver3d.<h1> 
   <p>Desenvolvedor Web, Designer Web & Editor de imagens, e Analítico.</p>
 </div>
 
@@ -8,7 +8,7 @@
 ### ✭ Sobre Mim
 
 * 🔭 Atualmente trabalhando com **Desenvolvimento Web** e **Automações**
-* 🌱 Estou aprofundando meus estudos em **n8n**, **Power Querries** e **PowerApps**.
+* 🌱 Estou aprofundando meus estudos em **phyton**, **Power Querries** e **C/C++**.
 * 💡 Interesses: Criação de interfaces responsivas e acessíveis, Design System e automação de tarefas.
 * 📫 **E-mail de Contato para projetos:** [shiver3dcontact@gmail.com](mailto:shiver3dcontact@gmail.com)
 
@@ -17,7 +17,7 @@
 ### 💻 Minhas Habilidades e Ferramentas
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,sass,java,react,vue,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,sass,java,py,c,react,vue,figma,photoshop" />
   </a>
   <br>
   <p><i>Desenvolvendo mais habilidades para futuramente colocar aqui :D</i></p>
